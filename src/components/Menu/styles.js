@@ -26,9 +26,9 @@ export const Container = styled.nav`
   @media (max-width: 800px) {
     height: 40px;
     justify-content: center;
-  body {
-    --bodyPaddingTop: 40px;
-    padding-top: var(--bodyPaddingTop);
+    body {
+      --bodyPaddingTop: 40px;
+      padding-top: var(--bodyPaddingTop);
     }
   }
 `;
