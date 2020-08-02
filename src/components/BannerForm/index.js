@@ -29,6 +29,7 @@ export default function BannerForm() {
           <ContentAreaContainer.Title>
             Faça uma busca pelo id do canal, para ver as playlists salvas
           </ContentAreaContainer.Title>
+          por exemplo, para o canal Dev Soutinho: UCo7EHzKF2zDFWszw7Dg4mPw
         </ContentAreaContainer.Item>
 
         <ContentAreaContainer.Item>
