@@ -1,0 +1,226 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "a1LoLpVDaQCMYEszgpd7Yy6U964",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 6,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "2Xbxbyk9VQk9UDC25OvJNtGftUY",
+      "id": "PLGA3rkjTjgj6k3_b1gmkOB4ZLdi8jnI8W",
+      "snippet": {
+        "publishedAt": "2020-05-19T22:05:16Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "Valorant",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W5S3vs4A5oM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W5S3vs4A5oM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W5S3vs4A5oM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W5S3vs4A5oM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W5S3vs4A5oM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "localized": {
+          "title": "Valorant",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ji2D8OZPF72RudE_d9jCgo9twWo",
+      "id": "PLGA3rkjTjgj4EokGpPFstgVKbYmQmQOHR",
+      "snippet": {
+        "publishedAt": "2019-11-22T02:00:44Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "Luta",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eF1t9em_gug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eF1t9em_gug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eF1t9em_gug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eF1t9em_gug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eF1t9em_gug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "localized": {
+          "title": "Luta",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "WkHBUQEntLsPCJ4Hac6DIXoQG4s",
+      "id": "PLGA3rkjTjgj6nnFwTdzM5BB3CY9LSzo6T",
+      "snippet": {
+        "publishedAt": "2019-02-16T01:21:15Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "Flutter",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DqJ_KjFzL9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DqJ_KjFzL9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DqJ_KjFzL9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DqJ_KjFzL9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DqJ_KjFzL9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "localized": {
+          "title": "Flutter",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "nWzG5EdtujRBHlsoYHh0JSuJ4xc",
+      "id": "PLGA3rkjTjgj6NTOTAW57YS52gJUftLxtE",
+      "snippet": {
+        "publishedAt": "2018-04-20T01:22:50Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "Programação",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "localized": {
+          "title": "Programação",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "SpC25y_5PCn4yIJlT6FMLZ_8AAE",
+      "id": "PLGA3rkjTjgj6wD0ljKSl79AHzzYH80U2Z",
+      "snippet": {
+        "publishedAt": "2018-03-31T21:08:23Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "Angular",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2osMpXOe5fA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2osMpXOe5fA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2osMpXOe5fA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2osMpXOe5fA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2osMpXOe5fA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "localized": {
+          "title": "Angular",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

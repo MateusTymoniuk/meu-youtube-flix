@@ -1,33 +1,15 @@
 import React from 'react';
+import { Provider } from 'react-redux';
+import store from './redux/store';
 
-import Menu from './components/Menu';
-import BannerMain from './components/BannerMain';
-import Carousel from './components/Carousel';
-import Footer from './components/Footer'
-import dadosIniciais from './data/dados_iniciais.json';
-
+import Home from './pages/Home';
 import GlobalStyles from './styles/global';
 
-function App() {
+export default function App() {
   return (
-    <>
-      <Menu />
-
-      <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é front end?"}
-      />
-
-      <Carousel category={dadosIniciais.categorias[0]} />
-
-      <Carousel category={dadosIniciais.categorias[1]} />
-
-      <Footer />
-
+    <Provider store={store}>
+      <Home />
       <GlobalStyles />
-    </>
+    </Provider>
   );
 }
-
-export default App;

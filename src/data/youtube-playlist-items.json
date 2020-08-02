@@ -1,0 +1,236 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "NuCqFMmgqllL7euf2cYyFvO3I-Q",
+  "nextPageToken": "CAUQAA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MqcqJeCTh_Vtg_WD6efhO_mpgHc",
+      "id": "UExHQTNya2pUamdqNk5UT1RBVzU3WVM1MmdKVWZ0THh0RS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-04-20T01:22:50Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "Compondo funções com Javascript - Dicas",
+        "description": "Neste vídeo, mostro como podemos criar uma função em JS que faz composição de outras funções. \n\nCadastre-se para receber as novidades: https://www.devpleno.com\n\nFacebook: https://www.facebook.com/devpleno/\nInstagram: https://www.instagram.com/devpleno/\nTwitter: https://twitter.com/devpleno\n\nConheça nossos cursos premium:\n\ndevReactJS - Crie aplicações web e mobile profissionais com ReactJS sem programar nada no servidor em apenas 45 dias: https://www.devpleno.com/devreactjs/\n\nFullstack Master -\nTorne-se um desenvolvedor fullstack em apenas 3 meses (independente da sua experiência atual): https://www.devpleno.com/fullstack-master/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sXIXGW0Go1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "playlistId": "PLGA3rkjTjgj6NTOTAW57YS52gJUftLxtE",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sXIXGW0Go1M"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h5B1VpOl-PaiOzd_sD6OnaeqkSs",
+      "id": "UExHQTNya2pUamdqNk5UT1RBVzU3WVM1MmdKVWZ0THh0RS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-06-16T18:33:34Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "VS Code Can Do That?! VS Code Tips and Tricks",
+        "description": "Visual Studio Code is on fire. Everybody loves this unexpected text editor smash hit, and for good reason: it can do A LOT. It can compile JavaScript templates on the fly, execute JavaScript inline, manage Mongo DB instances and so much more! In this session, we’ll take a look at the most powerful features and plugins in Visual Studio Code, many of which, nobody knows about. John and Burke will walk you through some of their favorite tips, tricks, extensions and hacks. This is Visual Studio Code like you’ve never seen before.\n\nEVENT:\n\nMicrosoft Build 2018\n\nSPEAKERS:\n\nBurke Holland and John Papa\n\nPERMISSIONS:\n\nOriginal video was published with the Creative Commons Attribution license (reuse allowed).\n\nCREDITS:\n\nOriginal video source: https://www.youtube.com/watch?v=rHKYJqjWjH8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x5GzCohd4eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x5GzCohd4eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x5GzCohd4eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x5GzCohd4eo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x5GzCohd4eo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "playlistId": "PLGA3rkjTjgj6NTOTAW57YS52gJUftLxtE",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x5GzCohd4eo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L5q3OBb6TckGPKf3FdpN1f5tJmc",
+      "id": "UExHQTNya2pUamdqNk5UT1RBVzU3WVM1MmdKVWZ0THh0RS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-06-16T18:33:41Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "10 Tips for failing badly at Microservices by David Schmitz",
+        "description": "Subscribe to Devoxx on YouTube @ https://bit.ly/devoxx-youtube \nLike Devoxx on Facebook @ https://www.facebook.com/devoxxcom \nFollow Devoxx on Twitter @ https://twitter.com/devoxx\n\nMicroservices are just a bunch hip new framework plus some AngularJS frontend or React, right?\nSo, if you want to make sure that you absolutely and definitely fail at your Microservice project, then watch this talk and learn how.\n\nUsing real world experience from multiple green field and brown field projects, I can show you:\n- how to ignore the mandatory organizational impact\n- how to focus on the code only without any regard towards ops and testing\n- continuous deployment is for losers. Real projects use their meat cloud for delivery\n- jumping onto every new and untested framework is a must\n- EventSourcing and CQRS are both free lunches. So, you can add complexity without any real need\n- ...and more\n\nIf you mind my tips, then surely you will fail at Microservices and your boss will never again try to move away from your beloved vintage monolith.\n\nDavid Schmitz\nPricinpal architect at Senacor Technologies with a history of + 13 years of working in various projects using a bunch of different stacks and environments.\n\nCurrent focus is on migrating architectures and organizations, such that our customers can cope with the challenges of the digital age.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0tjziAQfNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0tjziAQfNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0tjziAQfNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X0tjziAQfNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X0tjziAQfNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "playlistId": "PLGA3rkjTjgj6NTOTAW57YS52gJUftLxtE",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X0tjziAQfNQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iUuHG5575o2mzXZa36NO9vyJcF8",
+      "id": "UExHQTNya2pUamdqNk5UT1RBVzU3WVM1MmdKVWZ0THh0RS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-12-27T00:47:56Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "Learn RxJS in 60 Minutes for Beginners - Free Crash Course",
+        "description": "Enjoy? Click that Subscribe button -- I will be focusing on more RxJS soon.\nAlso, there's a full written version of this course, and here they are:\n\n1. Installing RxJS / Setting up a dev environment:\nhttps://goo.gl/aabGGw\n\n2. Observables & Subscriptions\nhttps://goo.gl/zeXb2o\n\n3. Subjects\nhttps://goo.gl/GXCasV\n\n4. Operators\nhttps://goo.gl/4eoZbM\n\nFull course page: https://goo.gl/DaizC1\n\nCOURSE DESCRIPTION:\n\n\"The Rx in RxJS is ReactiveX. This is an API for asynchronous programming using observables. It's tremendously powerful and it offers a new way of structuring applications.\n\nThe JS of course is JavaScript. RxJS is the JavaScript implementation of ReactiveX, and that's what this RxJS tutorial is all about. You're going to learn how to harness the poower of ReactiveX while using JavaScript.\n\nWe're going to start out by setting up a quick development environment from scratch, and then we'll work our way through all of the major ReactiveX topics in an example-based environment.\n\nMy goal in this course is to help absolute beginners to ReactiveX and RxJS gain a solid understanding of the following:\n\n- Streams\n- Observables & Observers\n- Subscriptions\n- Subjects\n- Operators\n\nWe're going to learn about all of these while actually working with code and observing the results in the browser, so that you can gain a practical understanding of ReactiveX and RxJS.\n\n//// Are there any requirements for this RxJS tutorial?\n\n- A basic understanding of JavaScript\n- A keen interest on leveling up your coding skills!\"\n\nEnjoy, everyone.\n\n- - - - - - - - - - - - - - - - - - - - - -\n\nSubscribe for NEW VIDEOS weekly!\n\n\nMy site:                                 https://coursetro.com\nMy personal FB account:   http://fb.com/logodesigner\nCoursetro FB:                       http://fb.com/coursetro\nCoursetro's Twitter:             http://twitter.com/designcoursecom\n\nJoin my Discord!                https://discord.gg/a27CKAF\n^-Chat with me and others\n\n- - - - - - - - - - - - - - - - - - - - - -\n\nWho is Gary Simon?  Well, I'm a full stack developer with 2+ decades experience and I teach people how to design and code. I've created around 100+ courses for big brands like LinkedIn, Lynda.com, Pluralsight and Envato Network. \n\nNow, I focus all of my time and energy on this channel and my website Coursetro.com.\n\nCome to my discord server or add me on social media and say Hi!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PhggNGsSQyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PhggNGsSQyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PhggNGsSQyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PhggNGsSQyg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PhggNGsSQyg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "playlistId": "PLGA3rkjTjgj6NTOTAW57YS52gJUftLxtE",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PhggNGsSQyg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VIZiY_8J-LMr38pfQSvcuYMdoZM",
+      "id": "UExHQTNya2pUamdqNk5UT1RBVzU3WVM1MmdKVWZ0THh0RS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-01-13T21:20:40Z",
+        "channelId": "UCNJVE5-lO25oRFzHByMvw4w",
+        "title": "Learn Sass in this Free Crash Course - Give your CSS Superpowers!",
+        "description": "Today's Question: What other learning resources outside of this channel do you learn from?\nhttps://skl.sh/designcourse - First 200 get their first 2 months free @ Skillshare!\n-- While Sass has been out for quite some time, I wanted to create my own resource for my viewers to learn. Sass enables you to write CSS with features that don't yet exist within CSS itself. In this free crash course, I'm going to show you how to get up and running with Sass while creating a simple responsive landing page from scratch.\n\nWe're going to cover:\n1. Integrating Sass within Visual Studio Code\n2. Sass Variables\n3. Sass Maps\n4. Nesting\n5. Mixins\n6. Functions\n7. Sass & Media Queries\n\nGithub repo for this course:\nhttps://github.com/designcourse/sass-crash-course-project\n\n- - - - - - - - - - - - - - - - - - - - - -\n\nSubscribe for NEW VIDEOS weekly!\n\n\nMy site:                                 https://coursetro.com\nMy personal FB account:   http://fb.com/logodesigner\nCoursetro FB:                       http://fb.com/coursetro\nCoursetro's Twitter:             http://twitter.com/designcoursecom\n\nJoin my Discord!                https://discord.gg/a27CKAF\n^-Chat with me and others\n\n- - - - - - - - - - - - - - - - - - - - - -\n\nWho is Gary Simon?  Well, I'm a full stack developer with 2+ decades experience and I teach people how to design and code. I've created around 100+ courses for big brands like LinkedIn, Lynda.com, Pluralsight and Envato Network. \n\nNow, I focus all of my time and energy on this channel and my website Coursetro.com.\n\nCome to my discord server or add me on social media and say Hi!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/roywYSEPSvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/roywYSEPSvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/roywYSEPSvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/roywYSEPSvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/roywYSEPSvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mateus Tymoniuk",
+        "playlistId": "PLGA3rkjTjgj6NTOTAW57YS52gJUftLxtE",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "roywYSEPSvc"
+        }
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 69,
+    "resultsPerPage": 5
+  }
+}
