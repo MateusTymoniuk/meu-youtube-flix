@@ -1,68 +1,69 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  Meu Youtube Flix
+</h1>
 
-## Available Scripts
+<h3 align="center">
+  Projeto da imersão React da Alura
+</h3>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licenca">Licença</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-### `yarn start`
+## Sobre
+Esta é uma aplicação feita em React durante a semana da imersão React da Alura.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Na aplicação construída, o usuário deve colocar o id do canal do YouTube do qual ele deseja ver as playlists, e então será buscado na própria API do Youtube. A requisição limita-se à buscar apenas 2 playlists, e 5 vídeos de cada, para manter o número de solicitações baixa. Se quiser saber sobre os limites de consulta à API, veja [aqui](https://developers.google.com/analytics/devguides/config/mgmt/v3/limits-quotas?hl=pt).
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Para este projeto, foram aplicados conceitos de componentização, estilização com *styled components*, *hooks*, chamadas à uma API backend utilizando *axios*, e gerenciamento de estado com *redux*.
 
-### `yarn test`
+## Instalação
+1 - Clonar o [repositório](https://github.com/MateusTymoniuk/meu-youtube-flix) em seu computador;
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2 - **Instalar as dependências do projeto** digitando no terminal o comando:
 
-### `yarn build`
+    yarn
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3 - Para **executar a aplicação** utilize:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+    yarn start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4 - Para **utilizar a API do YouTube**, crie o arquivo *.env* (utilize o arquivo .env.example do repositório que contém o nome da variável utilizada), e insira sua chave. Caso ainda não possua uma chve do Google, é possível criar uma [aqui](https://console.developers.google.com/).
 
-### `yarn eject`
+5 - Caso prefira **executar o backend do json server**, altere o arquivo src/services/api.js para utilizar:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    baseURL: 'http://localhost:3333'
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+E então rode o comando:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    yarn server
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Tecnologias
 
-## Learn More
+As seguintes ferramentas foram usadas na construção do projeto:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [React](https://pt-br.reactjs.org/)
+- [Styled components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [Redux](https://redux.js.org/)
+- [Json-server](https://github.com/typicode/json-server)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Autor
+---
 
-### Code Splitting
+ <img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/21376921?s=460&u=8016bdd3caca2057cca0a5858b0fa88df0cc5879&v=4" width="100px;" alt=""/>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Feito com ❤️ por Mateus Tymoniuk 👋🏽 Entre em contato!
 
-### Analyzing the Bundle Size
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-tymoniuk)](https://www.linkedin.com/in/mateus-tymoniuk)
+[![Gmail Badge](https://img.shields.io/badge/-tymoniuk.m@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tymoniuk.m@gmail.com)](mailto:tymoniuk.m@gmail.com)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Licença
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
